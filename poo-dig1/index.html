@@ -6,31 +6,34 @@
 
 		<title>reveal.js</title>
 
-		<link rel="stylesheet" href="../node_modules/reveal.js/dist/reset.css">
-		<link rel="stylesheet" href="../node_modules/reveal.js/dist/reveal.css">
-		<link rel="stylesheet" href="../node_modules/reveal.js/dist/theme/black.css">
+		<link rel="stylesheet" href="../revealjs/node_modules/reveal.js/dist/reset.css">
+		<link rel="stylesheet" href="../revealjs/node_modules/reveal.js/dist/reveal.css">
+    <!-- Themes -->
+		<link rel="stylesheet" href="../revealjs/node_modules/reveal.js/dist/theme/white.css">
+		<!-- <link rel="stylesheet" href="../revealjs/node_modules/reveal.js/dist/theme/black.css"> -->
 
 		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="../node_modules/reveal.js/plugin/highlight/monokai.css">
+		<link rel="stylesheet" href="../revealjs/node_modules/reveal.js/plugin/highlight/monokai.css">
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
-      <section data-markdown="slide.md" data-separator="^----$" data-separator-vertical="^-----$"></section>
+      <section data-markdown="slide.md" data-separator="^---$" data-separator-vertical="^----$"></section>
 			</div>
 		</div>
 
-		<script src="../node_modules/reveal.js/dist/reveal.js"></script>
-		<script src="../node_modules/reveal.js/plugin/notes/notes.js"></script>
-		<script src="../node_modules/reveal.js/plugin/markdown/markdown.js"></script>
-		<script src="../node_modules/reveal.js/plugin/highlight/highlight.js"></script>
-		<script src="../node_modules/reveal.js/plugin/zoom/zoom.js"></script>
+		<script src="../revealjs/node_modules/reveal.js/dist/reveal.js"></script>
+		<script src="../revealjs/node_modules/reveal.js/plugin/notes/notes.js"></script>
+		<script src="../revealjs/node_modules/reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="../revealjs/node_modules/reveal.js/plugin/highlight/highlight.js"></script>
+		<script src="../revealjs/node_modules/reveal.js/plugin/zoom/zoom.js"></script>
 		<script>
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
+        slideNumber: true,
 
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom ]

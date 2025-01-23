@@ -10,7 +10,7 @@ Presentado por **Johnny Cubides**
 ## Descripción
 
 Se presenta el flujo de diseño para la creación de prototipos
-con herramientas opensource tanto de hardware como
+con herramientas Open Source tanto de hardware como
 de software.
 
 -----
