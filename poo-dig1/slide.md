@@ -1,19 +1,81 @@
 ---
 lang: es
 ---
-# Flujo de diseño
+
+# Propuesta
+
+### POO y Electrónica digital 1
 
 Presentado por **Johnny Cubides**
 
 ----
 
-## Descripción
+## Agenda
 
-Se presenta el flujo de diseño para la creación de prototipos
-con herramientas Open Source tanto de hardware como
-de software.
+* Paradigma de la POO
+* Aprendizajes significativos
+* Metodología de aprendizaje y flujo de diseño para POO
+* Flujo de diseño para electrónica digital
+* Ejemplo de proyectos relacionados a programación y electrónica
 
------
+----
+
+## Programación orientada a objetos
+
+texto descriptivo
+
+------
+
+## Fundamentos de la POO
+
+* Clases y objetos
+* Encapsulamiento
+* Herencia
+* Polimorfismo
+* Abstracción
+
+------
+
+### Objetivos de aprendizaje
+
+* Comprender los conceptos fundamentales de la POO
+* Diseñar sistemas modulares y escalables
+* Fomentar la reutilización de código
+* Resolver problemas aplicando el modelamiento de objetos
+* Familiarizarse con herramientas relacionadas con este paradigama
+* Crear soluciones prácticas
+
+----
+
+###### Aprendizaje contextualizado
+
+![grafo-contextual](./img/marco_conceptual_white.svg)
+
+<!-- .element: style="height: auto; width: 90%; display: block; margin: auto;" -->
+
+------
+
+## Aprendizaje significativo
+
+* Agentes de cambio
+
+
+----
+
+## Metodología de enseñanza/aprendizaje
+
+----
+
+### Flujo de diseño
+
+------
+
+![flujo de diseño](./img/flujo-de-diseno-general.drawio.svg) 
+
+<!-- .element: style="height: auto; width: 90%; display: block; margin: auto;" -->
+
+----
+
 
 ![Flujo de diseño](./design/flujo-de-diseno-general-sin-comentarios.drawio.svg)
 
