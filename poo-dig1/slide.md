@@ -15,20 +15,23 @@ Presentado por **Johnny Cubides**
 * Paradigma de la POO
 * Aprendizajes significativos
 * Propuesta didáctica
-* Flujo de diseño para electrónica digital
+* Flujo de diseño para sistemas digitales
 * Ejemplo de proyecto
 
 ----
 
 ## Programación orientada a objetos (POO)
 
-texto descriptivo
+Es un paradigma que deriva de la programación imperativa y que estructura la
+solución de un problema en términos de objetos. Cada objeto encapsula datos
+(atributos) y comportamientos (métodos), y se relaciona con otros objetos para
+cumplir responsabilidades específicas de manera organizada.
 
 ------
 
 ## Fundamentos de la POO
 
-* Clases y objetos (plantillas)
+* Clases y objetos (plantillas e instancias)
 * Encapsulamiento (get/set)
 * Herencia
 * Polimorfismo (comportamiento)
@@ -42,7 +45,7 @@ texto descriptivo
 * Diseñar sistemas modulares y escalables
 * Fomentar la reutilización de código
 * Resolver problemas aplicando el modelamiento de objetos
-* Familiarizarse con herramientas relacionadas con este paradigama
+* Familiarizarse con herramientas relacionadas con este paradigma
 * Crear soluciones prácticas
 
 <!--.element: style="font-size: 80%;"-->
@@ -77,7 +80,7 @@ texto descriptivo
 
 ![flujo de diseño](./img/flujo-de-diseno-general.drawio.svg) 
 
-<!-- .element: style="height: auto; width: 90%; display: block; margin: auto;" -->
+<!-- .element: style="height: auto; width: 80%; display: block; margin: auto;" -->
 
 ----
 
@@ -89,13 +92,15 @@ texto descriptivo
 
 ![Niveles de abstracción](./img/niveles-abstraccion.png)
 
+<!-- .element: style="height: auto; width: 80%; display: block; margin: auto;" -->
+
 ------
 
 #### Flujo de diseño
 
 ![flujo de diseño digital](./img/metodoliga-de-diseno-sistemas-digitales.png)
 
-<!-- .element: style="height: auto; width: 65%; display: block; margin: auto;" -->
+<!-- .element: style="height: auto; width: 55%; display: block; margin: auto;" -->
 
 ----
 
@@ -103,4 +108,4 @@ texto descriptivo
 
 ----
 
-## Gracias
+# Gracias
